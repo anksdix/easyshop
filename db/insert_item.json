@@ -1,0 +1,10 @@
+db.Item.insertOne(
+{
+"_id": "a123",
+"itemName": "Shampoo",
+"itemDesc": "Best shampoo",
+"price":  120.05,
+"discountPercentage": 34,
+"qty": 1
+}
+)
